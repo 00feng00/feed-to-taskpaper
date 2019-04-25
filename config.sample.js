@@ -11,4 +11,13 @@ module.exports = {
     access_token_key: '',
     access_token_secret: ''
   },
+  starredConfig: {
+    username: 'sorrycc',
+    per_page: 20,
+  },
+  issuesConfig: {
+    owner: 'sorrycc',
+    repo: 'reading',
+    state: 'open',
+  },
 };
