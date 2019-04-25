@@ -11,6 +11,7 @@ module.exports = {
     access_token_key: '',
     access_token_secret: ''
   },
+  twitterScreenName: 'chenchengpro',
   starredConfig: {
     username: 'sorrycc',
     per_page: 20,
