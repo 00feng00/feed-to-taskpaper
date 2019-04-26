@@ -24,6 +24,12 @@ $ node index.js
 $ TOMORROW=1 node index.js
 ```
 
+然后根据 taskpaper 的内容，可生成更易读的早报格式，
+
+```bash
+$ node zaobao.js
+```
+
 ## LICENSE
 
 MIT
