@@ -7,6 +7,7 @@
 * Twitter
 * Github Issue（内容同步自 Instapaper）
 * Github Release
+* Github Star
 
 ![](https://cdn.nlark.com/yuque/0/2019/png/86025/1556114122722-d2c95b44-6c36-4901-b99f-8ab713f44e2e.png)
 
