@@ -39,7 +39,7 @@ function formatTasks(tasks) {
   if (!tasks.length) return '无';
   return tasks.map(task => {
     return `
-- **${task.value}** ${task.tags.map(t => `@${t}`).join(' ')}
+- **${task.value}** ${task.tags.map(t => `\`@${t}\``).join(' ')}
   ${task.children[0] ? task.children[0].value : ''}
     `.trim();
   }).join('\n');
